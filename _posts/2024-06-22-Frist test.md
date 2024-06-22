@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: 마크다운 가이드
+subtitle: 부 제목
+author: 작성자
+categories: 카테고리
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -16,9 +16,13 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 태그1 태그2 태그3
 top: 1
 sidebar: []
 ---
 
-첫번째 테스트 이올시다
+1. 코드블럭
+```
+code block
+```
+2. 
